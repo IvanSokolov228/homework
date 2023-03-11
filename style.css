@@ -1,0 +1,25 @@
+body{
+    background-color: plum;
+}
+h1{
+    color: beige;
+    text-align: center;
+}
+a{
+    color: pink;
+}
+h2{
+    color: red;
+}
+p{
+    color: blue;
+}
+ul{
+    color: brown;
+}
+img{
+    width: 569px;
+    height: 569px;
+    display: block;
+    margin: 0 auto;
+}
